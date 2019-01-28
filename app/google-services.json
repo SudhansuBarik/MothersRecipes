@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "161859904309",
+    "firebase_url": "https://mothersrecipes-48358.firebaseio.com",
+    "project_id": "mothersrecipes-48358",
+    "storage_bucket": "mothersrecipes-48358.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161859904309:android:c86fbd25450c0306",
+        "android_client_info": {
+          "package_name": "io.github.sudhansubarik.mothersrecipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161859904309-4dvg46ki1m4o4ifvp47c0jpg7vhjsf19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.sudhansubarik.mothersrecipes",
+            "certificate_hash": "3d7b7d25a4a9960480260a06e528019487826494"
+          }
+        },
+        {
+          "client_id": "161859904309-ae8gsl8vugoviag1srb3m5m3mpngg01h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXEJ3lmyBzH6j0ADgfshfdjF8T6QRy8Go"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161859904309-ae8gsl8vugoviag1srb3m5m3mpngg01h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

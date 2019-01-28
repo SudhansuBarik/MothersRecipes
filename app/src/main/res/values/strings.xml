@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Mother\'s Recipes</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <!--Firebase Login and Signup-->
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="new_pass">New Password</string>
+    <string name="email_id">Email ID</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_up_here">Not a Member yet? Sign Up here.</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="forgot_password_msg">Please enter your registered Email Id to receive the password reset instructions.</string>
+
+    <string name="create_profile">Create Profile</string>
+    <string name="please_enter_your_personal_details_to_create_your_profile">Please enter your personal details to create your profile.</string>
+    <string name="name">Name</string>
+    <string name="date_of_birth">Date of Birth:</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+    <string name="enter_your_mobile">Enter Your Mobile Number</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>Breads</item>
+        <item>Starters</item>
+        <item>Rice &amp; Biryani</item>
+        <item>North Indian</item>
+        <item>South Indian</item>
+        <item>Desserts</item>
+        <item>My Account</item>
+        <item>Help Centre</item>
+        <item>Share</item>
+    </string-array>
+
+    <string name="my_profile">My Profile</string>
+    <string name="my_recipes">My Recipes</string>
+
+    <!--My Profile Page-->
+    <string name="profile_mobile_number">Mobile Number:</string>
+    <string name="profile_d_o_b">D.O.B.:</string>
+    <string name="profile_email_id">Email ID:</string>
+    <string name="profile_name">Name:</string>
+    <string name="navheader_login_sign_up">Login | Sign Up</string>
+</resources>

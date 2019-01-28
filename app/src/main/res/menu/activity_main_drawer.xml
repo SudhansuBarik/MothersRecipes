@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_breads"
+            android:icon="@drawable/ic_menu_bread"
+            android:title="Breads" />
+        <item
+            android:id="@+id/nav_starters"
+            android:icon="@drawable/ic_menu_starter"
+            android:title="Starters" />
+        <item
+            android:id="@+id/nav_rice"
+            android:icon="@drawable/ic_menu_rice"
+            android:title="Rice &amp; Biryani" />
+        <item
+            android:id="@+id/nav_north_indian"
+            android:icon="@drawable/ic_menu_north_indian"
+            android:title="North Indian" />
+        <item
+            android:id="@+id/nav_south_indian"
+            android:icon="@drawable/ic_menu_south_indian"
+            android:title="South Indian" />
+        <item
+            android:id="@+id/nav_desserts"
+            android:icon="@drawable/ic_menu_dessert"
+            android:title="Desserts" />
+    </group>
+
+    <item android:title="Settings">
+        <menu>
+            <item
+                android:id="@+id/nav_account"
+                android:icon="@drawable/ic_account"
+                android:title="My Account" />
+            <item
+                android:id="@+id/nav_help_centre"
+                android:icon="@drawable/ic_help_centre"
+                android:title="Help Centre" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+        </menu>
+    </item>
+</menu>
